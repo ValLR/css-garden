@@ -1,1 +1,14 @@
-/* Agrega aquí tus estilos*/
+header {
+	padding: 30px;
+  text-align: center;
+  background: url(https://s-media-cache-ak0.pinimg.com/originals/c6/25/af/c625af6ea7d01d0ed0b1c3b68a2b3cc9.jpg);  no-repeat center center fixed; 
+-webkit-background-size: cover; 
+-moz-background-size: cover; 
+-o-background-size: cover; 
+background-size: cover;
+  height:140px;
+}
+
+body {
+  background-image:url(http://40.media.tumblr.com/tumblr_luvtrlZDsC1qiav1uo3_400.png);
+}
