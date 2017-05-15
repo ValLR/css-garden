@@ -36,16 +36,19 @@ body {
 }
 
 .summary {
-  	padding: 20px;
-  	margin: 23px 50px 100px 50px;
-  	height: 20px;
-  	text-align: center;
-  	color: #FBE1D2;
+  	padding: 18px;
+  	margin: 23px 0px 130px 0px;
+  	height: 53px;
+    text-align:center;
+    color: #FBE1D3;
     text-shadow:
-    	-1px -1px 0 #93707D,
-    	1px -1px 0 #93707D,
-    	-1px 1px 0 #93707D,
-    	1px 1px 0 #93707D;
+    -1px -1px 0 #93707D,
+    1px -1px 0 #93707D,
+    -1px 1px 0 #93707D,
+    1px 1px 0 #93707D;
+    font-size: 25px;
+	font-family: 'Oleo Script Swash Caps', cursive;
+    	
 }
 
 a:link {
@@ -64,4 +67,3 @@ a:active {
     color: pink;
 }
 
-}
