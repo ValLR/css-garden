@@ -1,14 +1,29 @@
 header {
-	padding: 30px;
-  text-align: center;
-  background: url(https://s-media-cache-ak0.pinimg.com/originals/c6/25/af/c625af6ea7d01d0ed0b1c3b68a2b3cc9.jpg);  no-repeat center center fixed; 
--webkit-background-size: cover; 
--moz-background-size: cover; 
--o-background-size: cover; 
-background-size: cover;
-  height:140px;
+	padding: 48px;
+  	text-align: center;
+  	background: url(http://68.media.tumblr.com/tumblr_m90waaPRoO1rc95too5_400.gif);
+  	height:190px;
+  	border: 2px solid #B497A1;
+}
+
+header h1{
+ 	font-size:26px;
+ 	font-family: 'Press Start 2P', cursive;
+ 	color: #EACCCA;
+	text-shadow:
+    -1px -1px 0 #93707D,
+    1px -1px 0 #93707D,
+    -1px 1px 0 #93707D,
+    1px 1px 0 #93707D; 
+
+}
+
+header h2{
+  	font-size:48px;
+  	font-family: 'Monoton', cursive;
+  	color: #EACCCA;
 }
 
 body {
-  background-image:url(http://40.media.tumblr.com/tumblr_luvtrlZDsC1qiav1uo3_400.png);
+  	background-image:url(http://68.media.tumblr.com/tumblr_luvtrlZDsC1qiav1uo4_250.jpg);
 }
